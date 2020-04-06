@@ -1,0 +1,17 @@
+{
+  "name": "scriptable-test-ios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@scriptable-ios/eslint-config": "^1.4.0",
+    "@types/scriptable-ios": "^1.4.0",
+    "eslint": "^6.8.0"
+  }
+}
